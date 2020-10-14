@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/plugins/points_interpolation" >
+        <file>icon.png</file>
+        <file>north-point-icon-png.png</file>
+        <file>lineicon.png</file>
+        <file>linepoint.png</file>
+    </qresource>
+</RCC>
